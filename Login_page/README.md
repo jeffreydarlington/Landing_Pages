@@ -1,6 +1,6 @@
 # Login Page
 
-This project is a simple login page built with HTML, CSS, and JavaScript. It provides users with the ability to sign up for a new account or log in to an existing one.
+This project is a responsive and stylish login page built with HTML, CSS, and JavaScript. The page includes both Sign Up and Sign In forms, with smooth transitions and social media login options. The design is user-friendly and adapts well to different screen sizes.
 
 ## Features
 
@@ -13,9 +13,13 @@ This project is a simple login page built with HTML, CSS, and JavaScript. It pro
 
 ## Technologies Used
 
-- HTML
-- CSS (with Google Fonts and Font Awesome for icons)
-- JavaScript
+-HTML5: Structure of the page.
+-CSS3: Styling and layout with flex-box and animations(with Google Fonts and Font Awesome for icons)
+-JavaScript: Form toggling and basic interactivity.
+Project Structure
+-index.html: Contains the structure of the login page.
+-style.css: Contains the styling for the login page, including animations and responsive design.
+-script.js: Handles the form toggling between Sign Up and Sign In.
 
 ## Usage
 
